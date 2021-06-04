@@ -1,0 +1,18 @@
+body{
+    color:navy;
+}
+.heading{
+    font-size: 25px;
+    background-color: orangered;
+}
+#camera{
+    border: 2px;
+    border-style: solid;
+    border-color:slategray;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name,#result_object_accuracy{
+font-size: 30px;
+font-family: monospace;
+}
